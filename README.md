@@ -11,3 +11,10 @@ Você pode encontrar no seguinte link: https://www.udemy.com/course/testes-autom
     - https://nodejs.org/en/download
     - Vale muito lembrar que você precisa instalar o node na versão do seu SO (Sistema Operacional).
     - Após a instalação do NODE, verifique através de um terminal (linha de comando) a versão que foi instalada através do comando: node --version.
+
+# Instalando o Cypress através do comando npm
+- Em seguida você irá precisar instalar o cypress, para isso poderá seguir os processos descritos na documentação oficial disponível em: (https://docs.cypress.io/guides/getting-started/installing-cypress), ou seguir os passos descritos aqui.
+    - Acesse a pasta onde clonou o repositório do projeto através de um terminal.
+    - No terminal, dentro da pasta do projeto, execute o comando: "npm install cypress --save-dev" 
+    - O procedimento acima, irá instalar o cypress de forma local utilizando a forma de dependência de desenvolvimento no projeto.
+    - Pronto o Cypress será instalado.

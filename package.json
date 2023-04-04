@@ -1,0 +1,23 @@
+{
+  "name": "Taynara-cypress-porWf",
+  "version": "1.0.0",
+  "description": "Projeto de estudos Cypress - Walmyr Filho",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Taynara-Luana/projeto-cypress-basico-wf"
+  },
+  "keywords": [
+    "Testing"
+  ],
+
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  },
+
+  "author": "Taynara",
+  "license": "ISC"
+}

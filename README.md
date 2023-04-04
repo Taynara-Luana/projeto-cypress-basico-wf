@@ -19,3 +19,6 @@ Você pode encontrar no seguinte link: https://www.udemy.com/course/testes-autom
     - No terminal, dentro da pasta do projeto, execute o comando: "npm install cypress --save-dev" 
     - O procedimento acima, irá instalar o cypress de forma local utilizando a forma de dependência de desenvolvimento no projeto.
     - Pronto o Cypress será instalado.
+
+# Executando o Cypress pela primeira vez
+- Após instalado o Cypress, execute o comando npx Cypress open pra que o Cypress seja inicializado corretamente.
